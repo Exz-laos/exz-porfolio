@@ -73,9 +73,6 @@ const StudyHistory = () => {
             </div>
           </div>
 
-
-
-
         </div>
       </div>
     </section>
